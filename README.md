@@ -6,7 +6,7 @@ fVDB-Reality-Capture aims to be production ready, with a focus on robustness, us
 It is designed to be easily integrated into existing pipelines and workflows, and to support a wide range of use cases and applications.
 
   <video autoplay loop controls muted width="100%">
-     <source src="https://fvdb-data.s3.us-east-2.amazonaws.com/fvdb-reality-capture/Large_World_480p.mp4" type="video/mp4" />
+     <source src="docs/imgs/Large_World_480p.mp4" type="video/mp4" />
   </video>
 
 
