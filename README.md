@@ -21,7 +21,7 @@ and fVDB-Reality-Capture provides best-in-class tools to reconstruct radiance fi
 [3D Gaussian Splatting](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/3d-vision/3d-gaussian-splatting/).
 A common reality capture pipeline typically resembles the figure below:
 
-  <img src="docs/imgs/meshing_small.gif"
+  <img src="docs/imgs/meshing_med-compressed.gif"
        alt="Reality Capture Pipeline"
        style="display: block; margin-left: auto; margin-right: auto; width: 100%; margin-top: -4em; margin-bottom: -2em" />
 
