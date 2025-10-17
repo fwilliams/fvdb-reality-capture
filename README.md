@@ -5,10 +5,11 @@ data from sensors built with [fVDB](https://openvdb.github.io/fvdb).
 fVDB-Reality-Capture aims to be production ready, with a focus on robustness, usability, and extensibility.
 It is designed to be easily integrated into existing pipelines and workflows, and to support a wide range of use cases and applications.
 
-  <img src="docs/imgs/output.gif"
+<p align="center">
+  <img src="docs/imgs/intro_video.gif"
        alt="Reality Capture Pipeline"
-       style="display: block; margin-left: auto; margin-right: auto; width: 100%;" />
-
+       style="align: center;display: block; margin-left: auto; margin-right: auto; width: 100%;" />
+</p>
 
 
 
